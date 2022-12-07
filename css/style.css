@@ -62,7 +62,7 @@ main .learn-more-suvs{
 main .learn-more-luxury{
     color:#00403f;
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:820px){
     main{
         display: grid;
         grid-template-columns: 1fr;
